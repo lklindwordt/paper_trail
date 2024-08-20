@@ -11,6 +11,7 @@ recommendations of [keepachangelog.com](http://keepachangelog.com/).
 
 ### Added
 
+- support for Rails 7.2
 - Change `versions` table layout for performance
 
 ### Fixed
